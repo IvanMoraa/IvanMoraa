@@ -13,7 +13,7 @@ From an early age, I have been immersed in the fascinating universe of programmi
        alt="snake" /></a>
 </div>
 
-#Skills
+# 🧠 Skills:
 
 - 💻 My skills span languages like C# and Java, and I am familiar with concepts such as Unit Testing, Object-Oriented Programming (OOP), LINQ, and Entity Framework.
 - 📚 I have also actively embraced and practiced software design principles, such as SOLID, Clean Code, and Kiss, to ensure that my creations are robust and maintainable.
