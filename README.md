@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Ivan Mora</h1>
-<h4 align="center">Welcome to my corner in the vast world of software development! Currently, I am a high school student at CBTIS 130, located in Mexico. At the age of 16, I am determined to carve my path as a standout software developer with a specific focus on backend development.
+<h4 align="center">Welcome to my corner in the vast world of software development! Currently, I am a high school student at CBTIS 130, located in Mexico. At the age of 16, I am determined to carve my path as a standout backend developer with a specific focus on software development.
 <a</h4>
 </div>
 
